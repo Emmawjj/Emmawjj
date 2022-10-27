@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Emmawjj
-- 👀 I’m interested in badminton
-- 🌱 I’m currently learning web3.0
+- 👋 Hi, I’m EMMA @Emmawjj.
+- 👀 I’m interested in badminton.
+- 🌱 I’m currently learning web3.0.
 - 💞️ I’m looking to collaborate on ...
 - 📫 wenemma94@gmail.com
 
